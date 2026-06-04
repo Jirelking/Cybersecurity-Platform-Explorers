@@ -144,6 +144,8 @@ Enable:
 #### Option 1: User Request
 - Via **My Access Portal**
 
+- https://myaccess.microsoft.com/@freepengo.com#/access-packages/cb03fe11-4b00-48d7-8199-9e966506ea6b
+
 #### Option 2: Admin Assignment
 - Assign users/groups directly
 
@@ -156,11 +158,3 @@ Enable:
 4. Verify group membership + app access  
 
 ---
-
-## 🔍 Regex Enhancement
-
-### ✅ Detect Question
-```regex
-(?i)may\s+i\s+know\s+the\s+name\s+of\s+your\s+group\s+leader\??
-
-
