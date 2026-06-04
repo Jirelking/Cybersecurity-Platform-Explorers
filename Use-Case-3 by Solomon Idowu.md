@@ -160,9 +160,19 @@ Enable:
 
 <img width="1919" height="893" alt="Access Request" src="https://github.com/user-attachments/assets/54a6a2df-e059-479f-abff-7d648a28a0a7" />
 
-   
-3. Approver approves  
-4. Access is granted  
-5. Verify group membership + app access  
+                                                      Fig 8a: Request Access Page 1
+
+
+   <img width="1918" height="886" alt="Additional Question" src="https://github.com/user-attachments/assets/76e5d5e6-74ef-4188-ad3d-638be97393b1" />
+
+                                                      Fig 8b: Request Access Page 2
+
+
+2. Approver approves
+
+ 
+3. Access is granted
+ 
+4. Verify group membership + app access  
 
 ---
