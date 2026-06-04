@@ -3,11 +3,14 @@
 ## Microsoft Solution
 Microsoft Entra ID Governance
 
-Project By: Cybersecurity Group 1
+##Project By: 
+Cybersecurity Group 1
 
-Program: Platform Explorers – Cybersecurity
+##Program: 
+Platform Explorers – Cybersecurity
 
-Date: 3rd of June, 2026
+##Date: 
+3rd of June, 2026
 
 ## Overview
 This project demonstrates how to implement **Role-Based Access Control (RBAC)** using **Microsoft Entra ID Governance (Access Packages)**.
