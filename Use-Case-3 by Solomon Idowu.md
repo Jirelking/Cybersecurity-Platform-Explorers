@@ -183,11 +183,14 @@ Add:
                                                       Fig 9b: Request Access Page 2
 
 
+
+
 2. Approver approves
 
  
 3. Access is granted
  
+
 4. Verify group membership + app access  
 
 ---
