@@ -24,11 +24,11 @@ The goal is to streamline access management by:
 ---
 
 ##  Objectives
-- ✅ Create access packages for teams
-- ✅ Assign access to users or groups
-- ✅ Enable approval-based access requests
-- ✅ Automate access reviews every 6 months
-- ✅ Improve security and compliance
+-  Create access packages for teams
+-  Assign access to users or groups
+-  Enable approval-based access requests
+-  Automate access reviews every 6 months
+-  Improve security and compliance
 
 ---
 
