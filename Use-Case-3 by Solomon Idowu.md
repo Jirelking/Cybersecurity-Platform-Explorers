@@ -1,4 +1,4 @@
-# 📌 Role-Based Application Access Package (Microsoft Entra ID Governance)
+# Use Case 3: Role-Based Application Access Package for Cybersecurity Group 1 Team (Microsoft Entra ID Governance)
 
 ## 📖 Overview
 This project demonstrates how to implement **Role-Based Access Control (RBAC)** using **Microsoft Entra ID Governance (Access Packages)**.
