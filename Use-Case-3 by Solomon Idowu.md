@@ -3,13 +3,13 @@
 ## Microsoft Solution
 Microsoft Entra ID Governance
 
-##Project By: 
+## Project By: 
 Cybersecurity Group 1
 
-##Program: 
+## Program: 
 Platform Explorers – Cybersecurity
 
-##Date: 
+## Date: 
 3rd of June, 2026
 
 ## Overview
