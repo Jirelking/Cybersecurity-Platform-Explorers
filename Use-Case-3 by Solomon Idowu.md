@@ -4,7 +4,9 @@
 Microsoft Entra ID Governance
 
 Project By: Cybersecurity Group 1
+
 Program: Platform Explorers – Cybersecurity
+
 Date: 3rd of June, 2026
 
 ## Overview
