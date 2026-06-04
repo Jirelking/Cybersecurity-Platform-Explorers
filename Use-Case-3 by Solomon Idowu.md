@@ -57,6 +57,8 @@ Group Name: Group 1 Collaboration
 
 <img width="1913" height="914" alt="Group 1 catalog" src="https://github.com/user-attachments/assets/ebd403fd-2991-4611-adaf-6abc1679ef4d" />
 
+                                                  Fig 1: Group 1 Collaboration Page
+
 ---
 
 ### 🔹 Step 2: Go to Identity Governance
@@ -67,7 +69,7 @@ Identity Governance → Entitlement Management → Access Packages
 
 <img width="1908" height="912" alt="1" src="https://github.com/user-attachments/assets/a9dd5532-b4a9-42b5-91cf-fc2866e1f4c6" />
 
-Fig 1: Group Created for the New access package
+                                            Fig 2: New access package creation group
 
 ---
 
@@ -77,6 +79,8 @@ Fig 1: Group Created for the New access package
 - Description: `To give access to the group members`
 
 <img width="1908" height="912" alt="1" src="https://github.com/user-attachments/assets/ffbbe170-30c5-43d8-a082-d1bbf75081c3" />
+
+                                                Fig 3: New Access Package Creation 
 
 ---
 
@@ -88,6 +92,8 @@ Add:
 
 <img width="1913" height="912" alt="2" src="https://github.com/user-attachments/assets/b44561fa-1169-405f-81f3-2374248e2e7a" />
 
+                                                  Fig 4: To Add Resource Page
+
 ---
 
 ### 🔹 Step 5: Create Policy
@@ -96,35 +102,43 @@ Add:
 - Allow users in directory
 - Require justification
 
+- #### ✅ Approval Settings
+- Enable approval
+- Assign approvers:
+
 <img width="1919" height="907" alt="3" src="https://github.com/user-attachments/assets/33ec879e-2638-458e-aff1-efde489c14f1" />
+
+                                          Fig 5a: Allow user request policy creation
 
 <img width="1916" height="909" alt="4" src="https://github.com/user-attachments/assets/4653f7dd-fbdd-4d81-afb0-be966afdaf72" />
 
+                                           Fig 5b: Allow user request policy creation
+
 <img width="1919" height="899" alt="5" src="https://github.com/user-attachments/assets/133de7df-d8fd-4650-808a-38057b41e5ab" />
+                                      
+                                           Fig 5c: Allow user request policy creation
 
 <img width="1916" height="915" alt="6" src="https://github.com/user-attachments/assets/c14ff1e7-6f2a-4f49-88a4-e1401be89e4a" />
+                     
+                                           Fig 5d: Allow user request policy creation
 
 ---
 
-#### ✅ Approval Settings
-- Enable approval
-- Assign approvers:
-- Manager
-- IT Admin
-- Application Owner
-
----
-
-#### ✅ Lifecycle Settings
+#### 🔹 Step 6: Lifecycle Settings
 - Expiration: **180 days (6 months)**
 - Allow renewal
+
 <img width="1565" height="913" alt="7" src="https://github.com/user-attachments/assets/368d217e-cdc2-4287-88f0-0c9b6649933e" />
+
+                                            Fig 6a: Lifecycle Settings Page
 
 <img width="1918" height="901" alt="8" src="https://github.com/user-attachments/assets/40ce993d-b70a-4d47-b935-08de88f4798c" />
 
+                                            Fig 6b: Lifecycle Settings Page
+
 ---
 
-### 🔹 Step 6: Enable Access Reviews
+### 🔹 Step 7: Enable Access Reviews
 - Frequency: **Every 6 months**
 - Reviewers:
 - Managers
@@ -132,18 +146,19 @@ Add:
 
 <img width="1919" height="908" alt="10" src="https://github.com/user-attachments/assets/4b246065-6d15-4780-94c5-af7174ee5306" />
 
+                                                Fig 7a: Access Review Page
+
 <img width="1919" height="911" alt="11" src="https://github.com/user-attachments/assets/3a9e9f76-faf6-4980-80f5-ca2836cf6eaf" />
 
+                                                Fig 7b: Access Review Page
+              
 <img width="1919" height="917" alt="12" src="https://github.com/user-attachments/assets/3084ad56-7f2e-41ee-954f-861ddddee1cf" />
 
+                                                Fig 7c: Access Review Page
 
-Enable:
-- Auto apply results
-- Remove access if not approved
 
----
 
-### 🔹 Step 7: Assign Access
+### 🔹 Step 8: Assign Access
 
 #### Option 1: User Request
 - Via **My Access Portal**
@@ -155,17 +170,17 @@ Enable:
 
 ---
 
-### 🔹 Step 8: Testing
+### 🔹 Step 9: Testing
 1. User requests access
 
 <img width="1919" height="893" alt="Access Request" src="https://github.com/user-attachments/assets/54a6a2df-e059-479f-abff-7d648a28a0a7" />
 
-                                                      Fig 8a: Request Access Page 1
+                                                      Fig 9a: Request Access Page 1
 
 
    <img width="1918" height="886" alt="Additional Question" src="https://github.com/user-attachments/assets/76e5d5e6-74ef-4188-ad3d-638be97393b1" />
 
-                                                      Fig 8b: Request Access Page 2
+                                                      Fig 9b: Request Access Page 2
 
 
 2. Approver approves
