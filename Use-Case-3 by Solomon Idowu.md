@@ -1,6 +1,9 @@
-# Use Case 3: Role-Based Application Access Package for Cybersecurity Group 1 Team (Microsoft Entra ID Governance)
+# Use Case 3: Role-Based Application Access Package for Cybersecurity Group 1 Team 
 
-## 📖 Overview
+## Microsoft Solution
+Microsoft Entra ID Governance
+
+## Overview
 This project demonstrates how to implement **Role-Based Access Control (RBAC)** using **Microsoft Entra ID Governance (Access Packages)**.
 
 The goal is to streamline access management by:
@@ -11,7 +14,7 @@ The goal is to streamline access management by:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - ✅ Create access packages for teams
 - ✅ Assign access to users or groups
 - ✅ Enable approval-based access requests
@@ -20,7 +23,7 @@ The goal is to streamline access management by:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ``
 User → Access Package → Apps / Groups / Resources
@@ -31,7 +34,7 @@ Access Granted
 ↓
 Access Review (6 Months)
 
-## 🧰 Technologies Used
+##  Technologies Used
 - Microsoft Entra ID
 - Microsoft Entra ID Governance
 - Access Packages (Entitlement Management)
@@ -40,24 +43,13 @@ Access Review (6 Months)
 
 ---
 
-## 📋 Prerequisites
-- Microsoft Entra ID P2 License
-- Admin Role:
-  - Global Admin OR Identity Governance Admin
-- Pre-created:
-  - Security Groups
-  - Enterprise Applications
+##  Implementation Steps
 
----
+###  Step 1: Create Groups
+Create required groups: Group 1 Access Package
+<img width="1908" height="912" alt="1" src="https://github.com/user-attachments/assets/a9dd5532-b4a9-42b5-91cf-fc2866e1f4c6" />
 
-## ⚙️ Implementation Steps
-
-### 🔹 Step 1: Create Groups
-Create required groups:
-- Finance_Group
-- HR_Group
-- IT_Support_Group
-
+Fig 1: Group Created for the New access package
 ---
 
 ### 🔹 Step 2: Go to Identity Governance
